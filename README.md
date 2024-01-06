@@ -15,5 +15,6 @@ Small CLI-based todo app for managing your work progress.
     todo_name: String,
     start_date: date,
     end_date: date,
+    notes: String,
     status: Ongoing | Finished | Ignored
 ```
